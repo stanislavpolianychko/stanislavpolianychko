@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Stas!
+<h3>👋 Hey there!</h3>
 
 - Software Developer ☕
 - Trying to build the perfect things, but it's not working. Just kidding, I was never trying 😉
