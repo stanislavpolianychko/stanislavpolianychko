@@ -1,6 +1,6 @@
 <h3>👋 Hey there!</h3>
 
-- Software Developer ☕
+- I am a Software Developer ☕
 - Trying to build the perfect things, but it's not working. Just kidding, I was never trying 😉
 - Feel free to connect with me and explore my repositories to see my work in action!
 
