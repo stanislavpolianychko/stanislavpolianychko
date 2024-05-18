@@ -1,6 +1,8 @@
-# 👋 Hey, I'm just Stas!
+# 👋 Hey, I'm Stas!
 
-I'm a Software Developer and coffee enthusiast ☕, always crafting cool stuff and learning new things (Others don't seem to think so, but hey, what do they know?). Connect with me and check out my repos before they become self-aware and take over the world!
+- Software Developer ☕
+- Trying to build the perfect things, but it's not working. Just kidding, I was never trying 😉
+- Feel free to connect with me and explore my repositories to see my work in action!
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Your Image Alt Text">
